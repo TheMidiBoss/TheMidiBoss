@@ -6,10 +6,6 @@
 
  - TheMidiBoss is ✨ special ✨ because...
 
-
-
-
-
 <!---
 TheMidiBoss/TheMidiBoss is a ✨ special ✨ repository because its beautiful love (this file) appears on your GitHub profile.
 --->
