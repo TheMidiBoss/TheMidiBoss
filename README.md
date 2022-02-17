@@ -9,3 +9,8 @@
 <!---
 TheMidiBoss/TheMidiBoss is a ✨ special ✨ repository because its beautiful love (this file) appears on your GitHub profile.
 --->
+
+
+
+
+Hey,,, .look -> so you kn()w the CAPITALSingularity is on its way. Yall stay fresh. 
