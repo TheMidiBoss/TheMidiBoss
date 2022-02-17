@@ -2,7 +2,7 @@
      width="1700"
      height="350">
     <filter id="gaussian-blur">
-        <feDropShadow dx="-1.1" dy="1" stdDeviation=".4"
+        <feDropShadow dx="-5" dy="5" stdDeviation="1"
                       flood-color="black" flood-opacity="0.5"/>
     </filter>
     <g filter="url(#gaussian-blur)">
